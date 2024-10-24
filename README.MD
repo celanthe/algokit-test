@@ -7,7 +7,7 @@ Welcome to my AlgoKit project!
 The following screenshots display the blocks in storage and the successful replacement of ```World``` with my name, ```Rin```
 
 ![Screenshot 1](/assets/algokit_assessment.png)
-![Screenshot 2](assets/hello_rin.png)
+![Screenshot 2](/assets/hello_rin.png)
 
 ### Thoughts and reflections
 
