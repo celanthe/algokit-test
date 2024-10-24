@@ -11,6 +11,6 @@ The following screenshots display the blocks in storage and the successful repla
 
 ### Thoughts and reflections
 
-The Algokit quickstart is simple to follow. Local developent on a Mac can be challenging if one's dev environment isn't configured prior to setup of this project. At some point I did something wrong, which results in the project building successfully, but not returning the app id or displaying my name after making some edits. Not sure what happened there, but it was working before, so I uploaded screenshots from before I started trying to fix it too much. 
+The Algokit quickstart is simple to follow. Local developent on a Mac can be challenging if one's dev environment isn't configured prior to setup of this project. At some point I did something wrong, which results in the project building successfully, but not returning the app id or displaying my name after making some edits. Not sure what happened there, but it was working before, so I uploaded screenshots from before I started trying to fix it too much. I'm going to assume this is because I had to recreate an entirely new dev environment from scratch after not using this particular machine for 2.5 years. 
 
 Thank you for the opportunity!
